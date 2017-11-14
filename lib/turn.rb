@@ -33,3 +33,6 @@ end
 
 
 def move(board, index, char = "X")
+
+end
+
