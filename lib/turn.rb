@@ -38,8 +38,7 @@ def input_to_index(input)
 end
 
 def move(board, index, char = "X")
-  puts "Please enter 1-9:"
-  input = gets.strip
+
 
   board[index] = char
 end
